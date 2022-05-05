@@ -5,3 +5,4 @@ print("Please note that you only use whole numbers.")
 
 number_range = int(input())
 number_of_numbers = int(input())
+khausgda
