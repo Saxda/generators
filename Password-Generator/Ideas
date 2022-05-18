@@ -1,2 +1,12 @@
 Buchstaben als zahle a=1 und so weiter zahlen zufällig generiren lassen
 das gleiche bei sonderzeichen
+
+
+in dictonary.py die sachen neben ein ander stellen dann in pg.py importieren
+
+
+Bsp.        dic = {
+                a, 1
+                b, 2
+                ...
+            }
